@@ -1,0 +1,15 @@
+.full-height {
+    height: 100vh;
+}
+h1{
+    background-color: rgb(25, 242, 5);
+    color: blue;
+    text-align: center;
+}
+button{
+    margin-left: 300px;
+}
+h1{
+    position: relative;
+    left: 50px;
+}
